@@ -1,1 +1,21 @@
+Lista de Requisitos Não  Funcionais
 
+1- Linguagem Java, Html, Css , JavaScript
+2- Sistema Operacional Windows, Linux
+2- Banco de dados Mysql
+3- Disponibilidade
+4- Integridade
+4- Segurança
+
+
+Lista de Requisitos Funcionais
+
+1- Inserir dados do usuarios
+2- Cadastrar 2 tipos de Usuários
+3- Listar Categorias
+4- Listar Serviços Disponiveis
+5- Cadastrar categoria de serviços do prestadores
+6- Buscar prestadores de serviços
+7- agendar serviço
+8- trazer os dados completos do serviço
+9- operações monetarias
